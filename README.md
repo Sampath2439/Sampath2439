@@ -1,73 +1,93 @@
-<h1 align="center">Hi 👋, I'm Batchu Gnana Sampath</h1>
-<h3 align="center">A passionate Full Stack Developer & AI Enthusiast from India 🇮🇳</h3>
-
+<!-- Banner -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/batchu-gnana-sampath" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&label=Connect" alt="LinkedIn">
-  </a>
-  <a href="mailto:gnanasampathbatchu2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&label=Mail" alt="Email">
-  </a>
-  <a href="https://github.com/Sampath2439">
-    <img src="https://img.shields.io/github/followers/Sampath2439?label=GitHub&style=social" alt="GitHub">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Batchu+Gnana+Sampath;AI+Engineer+%7C+Full+Stack+Developer;Lifelong+Tech+Explorer!&center=true&width=500&height=45">
 </p>
+
+<h1 align="center">👋 Hello, World!</h1>
+<h3 align="center">🚀 A Full Stack Developer & AI Enthusiast turning ideas into reality through code</h3>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🌱 I’m currently a **B.Tech Computer Science** student at Kalasalingam University (CGPA: 8.8/10)
-- 💼 Currently learning and working with **Full Stack + AI/ML** technologies
-- 🔭 I recently built a **quote retrieval system using RAG** and a **Glioma Detection Model using LSTM & Bi-LSTM**
-- 🤖 I'm fascinated by **Generative AI**, **Prompt Engineering**, and **Deep Learning**
-- 💬 Ask me about **Java, React, Python, Firebase, RAG, FastAPI, NLP**, and anything ML-related
-- ⚡ Fun fact: I design too! I'm a former **Graphic Design Intern** at BrightChamps 👨‍🎨
+- 🎓 B.Tech CSE @ Kalasalingam University (2021–2025), CGPA: 8.8
+- 🔭 I build cool projects using **AI**, **Java**, **React**, **Firebase**, and **RAG pipelines**
+- 🤖 Love working with **LLMs**, **Prompt Engineering**, **Deep Learning**, and **Computer Vision**
+- 🧠 Microsoft Certified in **Azure AI Fundamentals**
+- 🌐 Always open to collaboration, learning, and building real-world tech!
+
+---
+
+### 🏆 Achievements
+
+- 🔹 Developed an **AI-powered Quote Retrieval System** with RAG + FAISS
+- 🔹 Built a **Glioma Tumor Detection Model** using LSTM/Bi-LSTM (Boosted accuracy by 40%)
+- 🔹 Completed **MathWorks AICTE Virtual Internship** (Data analysis, algorithmic graphs, MATLAB)
+- 🔹 Interned as a **Graphic Designer at BrightChamps**, crafting user-friendly UI/UX for edtech tools
 
 ---
 
 ### 🔧 Tech Stack
 
-#### 🚀 Languages & Frameworks
-- Java, Python, SQL, JavaScript
-- ReactJS, Node.js, Express.js, TailwindCSS
-- Firebase, MySQL, FastAPI
+| Category        | Technologies |
+|----------------|--------------|
+| 💻 Languages    | Java, Python, SQL, JavaScript |
+| 🌐 Frontend     | HTML, CSS, ReactJS, TailwindCSS |
+| ⚙️ Backend      | Node.js, Express, FastAPI |
+| 🧠 AI/ML/NLP    | GenAI, RAG, FAISS, LSTM, BiLSTM, Deep Learning, NLP, Prompt Engineering |
+| 🛢️ Databases    | Firebase, MySQL |
+| 🧰 Tools & IDEs | Git, GitHub, Figma, PowerBI, Cursor, Replit, Claude, Gemini |
 
-#### 🧠 AI/ML Toolkit
-- Machine Learning, Deep Learning
-- RAGs, GenAI, NLP, Computer Vision
-- FAISS, Streamlit, Prompt Engineering
+---
 
-#### 🛠️ Tools
-- Git & GitHub, Figma, PowerBI, Replit, Cursor, Claude, Gemini
+### 🚀 Projects
+
+| Project | Tech | Description |
+|--------|------|-------------|
+| 🧠 **Glioma Detection** | Python, LSTM, Bi-LSTM | MRI-based tumor classification model with 40% accuracy boost |
+| 🔍 **Quote RAG System** | Streamlit, FAISS, NLP | Real-time semantic quote retrieval and QA system |
+| 🌐 **Task Manager Dashboard** | React, Firebase | Real-time CRUD with Socket.IO and live notifications |
+| 🧮 **Heart Attack Prediction** | LSTM, ECG Signal Analysis | AI model based on PQRS peak data from ECG input |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sampath2439&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sampath2439&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sampath2439&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sampath2439&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sampath2439&theme=github-compact&area=true&hide_border=true"/>
 </p>
 
 ---
 
-### 📌 Featured Projects
+### 📌 Certifications
 
-- 🧠 **[Glioma Brain Tumor Detection](#)**  
-  LSTM + BiLSTM-based model for tumor classification from MRI scans (Improved accuracy by 40%).
-
-- 🔍 **[Quote Retrieval RAG System](#)**  
-  Real-time QA system with vector search using FAISS + Streamlit, trained on fine-tuned embeddings.
+- 🏅 Microsoft Certified: Azure AI Fundamentals *(Jan 2023)*
+- 🏅 MathWorks AICTE Virtual Internship *(2023)*
+- 🏅 Full Stack & GenAI Projects: Self-built & Deployed
 
 ---
 
-### 📫 How to Reach Me
+### 🌐 Let's Connect!
 
-📍 Markapur, Andhra Pradesh  
-📧 gnanasampathbatchu2003@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/batchu-gnana-sampath) | [GitHub](https://github.com/Sampath2439)
+<p align="center">
+  <a href="mailto:gnanasampathbatchu2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email-red?logo=gmail&style=for-the-badge">
+  </a>
+  <a href="https://www.linkedin.com/in/batchu-gnana-sampath" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge">
+  </a>
+  <a href="https://github.com/Sampath2439" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=for-the-badge">
+  </a>
+</p>
 
 ---
 
-<p align="center">✨ “Building the future with code, curiosity, and creativity.” ✨</p>
+<p align="center">
+  💡 "Driven by curiosity, powered by code, building tech that matters." 💡
+</p>
