@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=435&lines=Hi%2C+I'm+Batchu+Gnana+Sampath;AI+%7C+Fullstack+%7C+UI+Designer;Building+the+Future+One+Pixel+at+a+Time" />
 </p>
 
-<h1 align="center">👋 Hello World, I'm Sampath!</h1>
+<h1 align="center">👋 Hello Wizards, I'm Sampath!</h1>
 <h3 align="center">🧠 Full Stack Developer • 🤖 AI Researcher • 🎨 UI/UX & Graphic Designer</h3>
 
 ---
