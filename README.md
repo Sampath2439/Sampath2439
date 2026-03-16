@@ -425,27 +425,6 @@ Accessible, child-friendly learning interface — color theory, typography & WCA
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-     SNAKE
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-## `$ watch contributions`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Sampath2439/Sampath2439/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sampath2439/Sampath2439/output/github-snake.svg"/>
-  <img alt="snake" src="https://raw.githubusercontent.com/Sampath2439/Sampath2439/output/github-snake.svg" width="100%"/>
-</picture>
-
-<sub>Activate: Repo → Actions → Add <a href="https://github.com/Platane/snk">platane/snk</a> GitHub Action</sub>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
      CONNECT
